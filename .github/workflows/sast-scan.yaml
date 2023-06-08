@@ -18,7 +18,7 @@ on:
   push:
     branches:
       - main
-      - master
+      - checkmarx-gha
     
 jobs:
   build:
